@@ -97,6 +97,7 @@ img {
   height: 478px;
   width: auto;
   box-shadow: 20px:
+  box-shadow: -1px 1px 3px 3px white;
 }
 
 .smurfs .tintin {
